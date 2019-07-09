@@ -1471,3 +1471,7 @@ Winter is upon you.
 Make rock Pot (15) has been completed.
 Urist Mafollulƒr, Ghostly Herbalist is following Stukos Shorastoth“s, Bone Carver!
 Shorast Stinth„dlisat, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+
+*** STARTING NEW GAME ***
