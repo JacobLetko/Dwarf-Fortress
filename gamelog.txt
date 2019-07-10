@@ -1476,3 +1476,9 @@ Shorast Stinth„dlisat, Brewer cancels Brew drink from plant: Needs unrotten DRIN
 
 *** STARTING NEW GAME ***
 *** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 5143425
+ Seed: w8WSISOyAKoua0aWQSUi
+ History Seed: yKOkqK4csiA2O2IAcQqC
+ Name Seed: eMOwe8mc00OqMimCagwo
+ Creature Seed: cW608ICoa6mImuiISoIm
