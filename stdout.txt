@@ -10,9 +10,5 @@ Font size: 8x12
 Resizing grid to 80x25
 Resizing font to 8x12
 
-New window size: 1920x1018
-Font size: 8x12
-Resizing font to 8x12
-
 Resizing font to 8x12
 Resizing font to 8x12
